@@ -1,0 +1,17 @@
+.container-card {
+    padding: 1em 0;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 25px;
+}
+
+.all-card {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.all-card .card-img {
+    width: 220px;
+    border-radius: 10px;
+}
