@@ -1,6 +1,6 @@
 import React from 'react';
 
-import Logo from '../../assets/icons.png';
+import Logo from '../../assets/larissa-matos-logo.png';
 import Github from '../../assets/icon-github.png';
 import Linkedin from '../../assets/icon-linkedin.png';
 

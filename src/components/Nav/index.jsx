@@ -2,14 +2,14 @@ import React from 'react';
 import { Nav, NavDropdown } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 
-import Logo from '../../assets/icons.png';
+import Logo from '../../assets/larissa-matos-logo.png';
 
 import './style.css';
 
 function index() {
     return (
         <Nav className='nav-header'>
-            <img src={Logo} />
+            <img src={Logo} width='180px' alt='Logo da Larissa' />
             <div className='div-header'>
                 <Link to='/'>Início</Link>
                 <Link to='/sobre'> Sobre </Link>

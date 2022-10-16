@@ -13,9 +13,8 @@ function Sobre() {
         <h4 className='title-text-sobre'>Quem eu sou por trás da lente?!</h4>
         <p>
           Sou Larissa Matos, fotógrafa, atualmente trabalhando com ensaios intímos e de casais. <br />
-          Moro na Vila Andrade, Zona Sul do município de São Paulo. <br/> 
           <br/>
-          Em 2022, iniciei meus trabalhos voltados à nú artístico. A idéia é mostrar às pessoas
+          Em 2022, iniciei meus trabalhos voltados à nu artístico. A ideia é mostrar às pessoas
           a arte que habita em cada corpo e como ela se torna única, com novos traços, cores, curvas...
           Trazendo novas histórias, momentos, sorrisos, olhares, que ficarão para sempre na memória de cada um!
         </p>

@@ -1,4 +1,8 @@
+.container-home{
+    padding: 2em;
+    text-align: center;
+}
+
 .background-home{
-    padding: .5em 10em;
-    width: 75%;
+    width: 50%;
 }
