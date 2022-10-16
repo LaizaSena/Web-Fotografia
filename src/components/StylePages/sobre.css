@@ -1,0 +1,20 @@
+.conteiner-sobre {
+    margin: 2em 5em;
+    display: flex;
+}
+
+.img-page-sobre {
+    width: 400px;
+    border-radius: 50%;
+}
+
+.text-sobre {
+    width: 50%;
+    margin-left: 5em;
+    font-size: 20px;
+    text-align: justify;
+}
+
+.title-text-sobre{
+    text-align: center;
+}
