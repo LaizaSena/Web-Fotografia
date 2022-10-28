@@ -1,8 +1,8 @@
 import React from 'react';
 
-import Me from '../assets/Larissa.jpg';
+import Me from '../../assets/Larissa.jpg';
 
-import '../components/StylePages/sobre.css';
+import './sobre.css';
 
 function Sobre() {
   return (

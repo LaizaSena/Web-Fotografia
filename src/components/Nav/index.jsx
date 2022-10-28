@@ -12,7 +12,6 @@ function index() {
             <img src={Logo} width='180px' alt='Logo da Larissa' />
             <div className='div-header'>
                 <Link to='/'>Início</Link>
-                <Link to='/sobre'> Sobre </Link>
                 <NavDropdown className='dropdown-header-ensaio' title="Ensaio">
                     <NavDropdown.Item><Link to='/ensaio-casual'>Casual</Link></NavDropdown.Item>
                     <NavDropdown.Item><Link to='/ensaio-sensual'>Sensual</Link></NavDropdown.Item>

@@ -1,7 +1,7 @@
 import React from 'react'
-import Card from '../components/Card';
+import Card from '../../components/Card';
 
-import Foto1 from '../assets/foto1.jpeg';
+import Foto1 from '../../assets/foto1.jpeg';
 
 function Vitoria() {
     return (

@@ -5,11 +5,10 @@ import Nav from './components/Nav';
 import Home from './pages/Home.jsx';
 import EnsaioCasual from './pages/EnsaioCasual.jsx';
 import EnsaioSensual from './pages/EnsaioSensual.jsx';
-import Vitoria from './pages/Vitoria.jsx';
-import Sheila from './pages/Sheila.jsx';
-import Eduarda from './pages/Eduarda.jsx';
-import Julia from './pages/Julia.jsx';
-import Sobre from './pages/Sobre.jsx';
+import Vitoria from './pages/Modelos/Vitoria.jsx';
+import Sheila from './pages/Modelos/Sheila.jsx';
+import Eduarda from './pages/Modelos/Eduarda.jsx';
+import Julia from './pages/Modelos/Julia.jsx';
 import Footer from './components/Footer';
 
 import './App.css';
@@ -26,7 +25,6 @@ function App() {
         <Route path='/sheila' element={<Sheila />} />
         <Route path='/eduarda' element={<Eduarda />} />
         <Route path='/julia' element={<Julia />} />
-        <Route path='/sobre' element={<Sobre />} />
       </Routes>
       <Footer />
     </BrowserRouter>

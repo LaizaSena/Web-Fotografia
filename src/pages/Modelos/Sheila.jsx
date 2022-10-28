@@ -1,7 +1,7 @@
 import React from 'react'
-import Card from '../components/Card';
+import Card from '../../components/Card';
 
-import Foto2 from '../assets/foto2.jpeg';
+import Foto2 from '../../assets/foto2.jpeg';
 
 function Sheila() {
     return (

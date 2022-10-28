@@ -6,6 +6,7 @@
     align-items: center;
     background-color: #000;
     font-size: 20px;
+    position: fixed;
 }
 
 .div-header{
