@@ -18,7 +18,6 @@ function Index() {
                     <button className='animated-button'>Enviar</button>
                 </form>
             </main>
-                {/* <img src={Instagram} /> */}
         </div>
     )
 }

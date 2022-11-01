@@ -6,7 +6,7 @@ import './sobre.css';
 
 function Sobre() {
   return (
-    <div className='conteiner-sobre'>
+    <div className='container-sobre'>
       <img src={Me} alt='Foto Larissa Matos' className='img-page-sobre' />
       <span className='text-sobre'>
         <h2 className='title-text-sobre'>Sobre mim</h2>

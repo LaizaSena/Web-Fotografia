@@ -9,7 +9,7 @@ import './style.css';
 function index() {
     return (
         <footer className='container-footer'>
-            <img src={Logo} alt='Logo da Larissa' />
+            <img className='logo-footer' src={Logo} alt='Logo da Larissa' />
             <div className='text-footer'>
                 <p>Desenvolvido por <b>Laiza Sena</b></p>
                 <a href='https://github.com/laizasena' target='blank'><img src={Github} /></a>
