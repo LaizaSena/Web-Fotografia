@@ -9,14 +9,13 @@ import './style.css';
 function index() {
     return (
         <Nav className='nav-header'>
-            <img src={Logo} width='180px' alt='Logo da Larissa' />
+            <img src={Logo} width='180px' alt='Logo da Larissa' className='logo-header' />
             <div className='div-header'>
                 <Link to='/'>Início</Link>
                 <NavDropdown className='dropdown-header-ensaio' title="Ensaio">
                     <NavDropdown.Item><Link to='/ensaio-casual'>Casual</Link></NavDropdown.Item>
                     <NavDropdown.Item><Link to='/ensaio-sensual'>Sensual</Link></NavDropdown.Item>
                 </NavDropdown>
-                <Link to='/contato'> Contato </Link>
             </div>
         </Nav>
     )

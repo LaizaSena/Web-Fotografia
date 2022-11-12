@@ -1,8 +1,9 @@
 .container-card {
-    padding: 1em 0;
+    padding: 3em 0 1em;
     display: flex;
     justify-content: space-evenly;
     font-size: 25px;
+    flex-wrap: wrap;
 }
 
 .all-card {
@@ -14,4 +15,20 @@
 .all-card .card-img {
     width: 220px;
     border-radius: 10px;
+}
+
+@media screen and (max-width: 420px) {
+    .container-card {
+        padding-top: 4.5em;
+        font-size: 18px;
+    }
+
+    .all-card{
+        margin-bottom: 1em;
+    }
+
+    .all-card .card-img {
+        margin: 0 .5em;
+        width: 120px;
+    }
 }
